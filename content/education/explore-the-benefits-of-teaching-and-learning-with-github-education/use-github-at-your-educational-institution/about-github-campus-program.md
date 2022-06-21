@@ -23,7 +23,7 @@ To read about how GitHub is used by educators, see [GitHub Education stories](ht
 
 ## {% data variables.product.prodname_campus_program %} terms and conditions
 
-- The license is free for one year and will automatically renew for free every 2 years. You may continue on the free license so long as you continue to operate within the terms of the agreement. Any school that can agree to the [terms of the program](https://education.github.com/schools/terms) is welcome to join.
+- The license is free for so long as you continue to operate within the terms of the agreement. It will automatically renew for free every year. Any school that can agree to the [terms of the program](https://education.github.com/schools/terms) is welcome to join.
 
 - Please note that the licenses are for use by the whole school. Internal IT departments, academic research groups, collaborators, students, and other non-academic departments are eligible to use the licenses so long as they are not making a profit from its use. Externally funded research groups that are housed at the university may not use the free licenses.
 
